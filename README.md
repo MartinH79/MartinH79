@@ -39,7 +39,7 @@
 
 ## Projekte · Projects
 
-<!-- Für öffentliche Repos: <img …> in <a href="https://github.com/BENUTZERNAME/REPO"> … </a> einschließen -->
+<!-- Für öffentliche Repos: <img …> in <a href="https://github.com/MartinH79/REPO"> … </a> einschließen -->
 <table>
 <tr>
 <td><img src="assets/projekt-drohnen.svg" width="100%" alt="AprilTag-Frachtdrohnen" /></td>
@@ -58,9 +58,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BENUTZERNAME/BENUTZERNAME/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BENUTZERNAME/BENUTZERNAME/output/snake-light.svg" />
-    <img alt="Beitragsgrafik als Schlange" src="https://raw.githubusercontent.com/BENUTZERNAME/BENUTZERNAME/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinH79/martinh79/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinH79/martinh79/output/snake-light.svg" />
+    <img alt="Beitragsgrafik als Schlange" src="https://raw.githubusercontent.com/MartinH79/martinh79/output/snake-dark.svg" />
   </picture>
 </p>
 
