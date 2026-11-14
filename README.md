@@ -50,8 +50,7 @@
 <td><img src="assets/projekt-slam.svg" width="100%" alt="4WD-Roboter mit SLAM" /></td>
 </tr>
 <tr>
-<td><img src="assets/projekt-neohockey.svg" width="100%" alt="NeoHockey" /></td>
-<td><img src="assets/projekt-growsmart.svg" width="100%" alt="GrowSmart" /></td>
+<td colspan="2" align="center"><img src="assets/projekt-growsmart.svg" width="50%" alt="GrowSmart" /></td>
 </tr>
 </table>
 
