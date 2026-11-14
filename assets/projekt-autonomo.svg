@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200" role="img" aria-label="AUTONOMO: Autonomer Indoor-Lieferroboter mit RPLidar, Omni-Antrieb, IMU und Kamera-Erkennung mit Edge Impulse.">
+<style>.f{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",Arial,sans-serif}.m{font-family:"JetBrains Mono","Fira Code",Consolas,"DejaVu Sans Mono",monospace}.pl{animation:pl 1.8s ease-in-out infinite}@keyframes pl{0%,100%{opacity:1}50%{opacity:.25}}.ln{stroke-dasharray:60 400;animation:ln 4s linear infinite}@keyframes ln{from{stroke-dashoffset:460}to{stroke-dashoffset:0}}</style>
+<rect x="0.5" y="0.5" width="399" height="199" rx="12" fill="#0b1220" stroke="#1f2a44"/>
+<path class="ln" d="M14 0.5 H386" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+<text x="20" y="38" class="f" font-size="18" font-weight="700" fill="#e6edf3">AUTONOMO</text>
+<text x="20" y="64" class="f" font-size="13.5" fill="#c9d1d9">Autonomer Indoor-Lieferroboter mit RPLidar, Omni-</text>
+<text x="20" y="83" class="f" font-size="13.5" fill="#c9d1d9">Antrieb, IMU und Kamera-Erkennung mit Edge</text>
+<text x="20" y="102" class="f" font-size="13.5" fill="#c9d1d9">Impulse.</text>
+<text x="20" y="125" class="f" font-size="12" font-style="italic" fill="#8b949e">Autonomous indoor delivery robot: RPLidar, omni drive, IMU,</text>
+<text x="20" y="142" class="f" font-size="12" font-style="italic" fill="#8b949e">Edge Impulse vision.</text>
+<rect x="20" y="162" width="109" height="22" rx="6" fill="#0f2233" stroke="#1f2a44"/>
+<text x="29" y="177" class="m" font-size="11.5" fill="#22d3ee" textLength="89" lengthAdjust="spacingAndGlyphs">Arduino UNO Q</text>
+<rect x="137" y="162" width="67" height="22" rx="6" fill="#0f2233" stroke="#1f2a44"/>
+<text x="146" y="177" class="m" font-size="11.5" fill="#22d3ee" textLength="47" lengthAdjust="spacingAndGlyphs">RPLidar</text>
+<rect x="212" y="162" width="102" height="22" rx="6" fill="#0f2233" stroke="#1f2a44"/>
+<text x="221" y="177" class="m" font-size="11.5" fill="#22d3ee" textLength="82" lengthAdjust="spacingAndGlyphs">Edge Impulse</text>
+</svg>

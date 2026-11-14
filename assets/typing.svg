@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 46" width="820" height="46" role="img" aria-label="Autonome Roboter – von der Idee bis zur Platine / Autonomous robots – from idea to PCB / ROS 2 · SLAM · Nav2 · Gazebo / AprilTag-Navigation für eine Drohnenflotte / ESP32 · Arduino · Raspberry Pi · Python · C++">
+<style>.m{font-family:"JetBrains Mono","Fira Code",Consolas,"DejaVu Sans Mono",monospace}
+@keyframes k0{0%{transform:scaleX(0);animation-timing-function:steps(49,end)}7.50%{transform:scaleX(1)}18.00%{transform:scaleX(1);animation-timing-function:steps(49,end)}20.00%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes c0{0%{transform:translateX(0);opacity:1;animation-timing-function:steps(49,end)}7.50%{transform:translateX(558.6px)}18.00%{transform:translateX(558.6px);animation-timing-function:steps(49,end)}20.00%{transform:translateX(0);opacity:1}20.01%{opacity:0}100%{opacity:0}}
+.r0{transform-origin:130.7px 0;animation:k0 20.0s infinite;animation-delay:0.0s;transform:scaleX(0)}
+.q0{animation:c0 20.0s infinite;animation-delay:0.0s;opacity:0}
+@keyframes k1{0%{transform:scaleX(0);animation-timing-function:steps(38,end)}7.50%{transform:scaleX(1)}18.00%{transform:scaleX(1);animation-timing-function:steps(38,end)}20.00%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes c1{0%{transform:translateX(0);opacity:1;animation-timing-function:steps(38,end)}7.50%{transform:translateX(433.2px)}18.00%{transform:translateX(433.2px);animation-timing-function:steps(38,end)}20.00%{transform:translateX(0);opacity:1}20.01%{opacity:0}100%{opacity:0}}
+.r1{transform-origin:193.4px 0;animation:k1 20.0s infinite;animation-delay:4.0s;transform:scaleX(0)}
+.q1{animation:c1 20.0s infinite;animation-delay:4.0s;opacity:0}
+@keyframes k2{0%{transform:scaleX(0);animation-timing-function:steps(30,end)}7.50%{transform:scaleX(1)}18.00%{transform:scaleX(1);animation-timing-function:steps(30,end)}20.00%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes c2{0%{transform:translateX(0);opacity:1;animation-timing-function:steps(30,end)}7.50%{transform:translateX(342.0px)}18.00%{transform:translateX(342.0px);animation-timing-function:steps(30,end)}20.00%{transform:translateX(0);opacity:1}20.01%{opacity:0}100%{opacity:0}}
+.r2{transform-origin:239.0px 0;animation:k2 20.0s infinite;animation-delay:8.0s;transform:scaleX(0)}
+.q2{animation:c2 20.0s infinite;animation-delay:8.0s;opacity:0}
+@keyframes k3{0%{transform:scaleX(0);animation-timing-function:steps(44,end)}7.50%{transform:scaleX(1)}18.00%{transform:scaleX(1);animation-timing-function:steps(44,end)}20.00%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes c3{0%{transform:translateX(0);opacity:1;animation-timing-function:steps(44,end)}7.50%{transform:translateX(501.6px)}18.00%{transform:translateX(501.6px);animation-timing-function:steps(44,end)}20.00%{transform:translateX(0);opacity:1}20.01%{opacity:0}100%{opacity:0}}
+.r3{transform-origin:159.2px 0;animation:k3 20.0s infinite;animation-delay:12.0s;transform:scaleX(0)}
+.q3{animation:c3 20.0s infinite;animation-delay:12.0s;opacity:0}
+@keyframes k4{0%{transform:scaleX(0);animation-timing-function:steps(47,end)}7.50%{transform:scaleX(1)}18.00%{transform:scaleX(1);animation-timing-function:steps(47,end)}20.00%{transform:scaleX(0)}100%{transform:scaleX(0)}}
+@keyframes c4{0%{transform:translateX(0);opacity:1;animation-timing-function:steps(47,end)}7.50%{transform:translateX(535.8px)}18.00%{transform:translateX(535.8px);animation-timing-function:steps(47,end)}20.00%{transform:translateX(0);opacity:1}20.01%{opacity:0}100%{opacity:0}}
+.r4{transform-origin:142.1px 0;animation:k4 20.0s infinite;animation-delay:16.0s;transform:scaleX(0)}
+.q4{animation:c4 20.0s infinite;animation-delay:16.0s;opacity:0}</style>
+<rect width="820" height="46" rx="10" fill="#0b1220"/>
+<defs><clipPath id="cl0"><rect class="r0" x="130.7" y="0" width="558.6" height="46"/></clipPath><clipPath id="cl1"><rect class="r1" x="193.4" y="0" width="433.2" height="46"/></clipPath><clipPath id="cl2"><rect class="r2" x="239.0" y="0" width="342.0" height="46"/></clipPath><clipPath id="cl3"><rect class="r3" x="159.2" y="0" width="501.6" height="46"/></clipPath><clipPath id="cl4"><rect class="r4" x="142.1" y="0" width="535.8" height="46"/></clipPath></defs>
+<g clip-path="url(#cl0)"><text class="m" x="130.7" y="30" font-size="20" textLength="558.6" lengthAdjust="spacingAndGlyphs" fill="#c9d1d9"><tspan fill="#22d3ee">&gt; </tspan>Autonome Roboter – von der Idee bis zur Platine</text></g>
+<rect class="q0" x="131.7" y="12" width="10" height="22" fill="#22d3ee"/>
+<g clip-path="url(#cl1)"><text class="m" x="193.4" y="30" font-size="20" textLength="433.2" lengthAdjust="spacingAndGlyphs" fill="#c9d1d9"><tspan fill="#22d3ee">&gt; </tspan>Autonomous robots – from idea to PCB</text></g>
+<rect class="q1" x="194.4" y="12" width="10" height="22" fill="#22d3ee"/>
+<g clip-path="url(#cl2)"><text class="m" x="239.0" y="30" font-size="20" textLength="342.0" lengthAdjust="spacingAndGlyphs" fill="#c9d1d9"><tspan fill="#22d3ee">&gt; </tspan>ROS 2 · SLAM · Nav2 · Gazebo</text></g>
+<rect class="q2" x="240.0" y="12" width="10" height="22" fill="#22d3ee"/>
+<g clip-path="url(#cl3)"><text class="m" x="159.2" y="30" font-size="20" textLength="501.6" lengthAdjust="spacingAndGlyphs" fill="#c9d1d9"><tspan fill="#22d3ee">&gt; </tspan>AprilTag-Navigation für eine Drohnenflotte</text></g>
+<rect class="q3" x="160.2" y="12" width="10" height="22" fill="#22d3ee"/>
+<g clip-path="url(#cl4)"><text class="m" x="142.1" y="30" font-size="20" textLength="535.8" lengthAdjust="spacingAndGlyphs" fill="#c9d1d9"><tspan fill="#22d3ee">&gt; </tspan>ESP32 · Arduino · Raspberry Pi · Python · C++</text></g>
+<rect class="q4" x="143.1" y="12" width="10" height="22" fill="#22d3ee"/>
+</svg>
